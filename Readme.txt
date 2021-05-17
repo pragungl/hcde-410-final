@@ -1,0 +1,1 @@
+This project intends to analyze the annual building energy report for buildings over 20,000 square feet in Seattle area while focusing on the Green House Gas (GHG) emission of the buildings. It is expected that the end result of the project is to build the energy usage profile and how much the buildings had been able to reduce the GHG emission between 2015-2019.
